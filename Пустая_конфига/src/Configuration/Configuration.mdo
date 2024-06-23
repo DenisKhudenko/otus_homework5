@@ -35,4 +35,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <documents>Document.Документ</documents>
+  <dataProcessors>DataProcessor.ВнешняяОбработка_ОТУС</dataProcessors>
 </mdclass:Configuration>
