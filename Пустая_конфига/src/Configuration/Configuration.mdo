@@ -34,6 +34,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.Справочник_developer2</catalogs>
   <documents>Document.Документ</documents>
   <dataProcessors>DataProcessor.ВнешняяОбработка_ОТУС</dataProcessors>
 </mdclass:Configuration>
