@@ -36,6 +36,7 @@
   </languages>
   <catalogs>Catalog.Справочник_developer2</catalogs>
   <documents>Document.Документ</documents>
+  <documents>Document.Документ_dev1</documents>
   <enums>Enum.Перечисление_dev2</enums>
   <dataProcessors>DataProcessor.ВнешняяОбработка_ОТУС</dataProcessors>
 </mdclass:Configuration>
