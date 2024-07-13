@@ -37,5 +37,6 @@
   <catalogs>Catalog.Справочник_developer2</catalogs>
   <catalogs>Catalog.Справочник_developer1</catalogs>
   <documents>Document.Документ</documents>
+  <documents>Document.Документ_developer1</documents>
   <dataProcessors>DataProcessor.ВнешняяОбработка_ОТУС</dataProcessors>
 </mdclass:Configuration>
